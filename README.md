@@ -1,4 +1,4 @@
-<h1 align="center">📡 Telecom X LATAM — Análisis de Evasión de Clientes  📡</h1>
+<h1 align="center">📡Telecom X LATAM — Análisis de Evasión de Clientes 📡</h1>
 <h1 align="center">(Challenge 2)</h1>
 
 <p align="center">
