@@ -256,15 +256,12 @@ challenge2_dataScience_LATAM_jjms/
 
 ---
 
-## Desarrollador 👨‍💻
+## Desarrollador
 
-**Desarrollado por**: Jhonatan Jhonsson Mendoza Sulcaray
-
-📧 **Contacto**: chessterdev@gmail.com
-
-💼 **LinkedIn**: linkedin.com/in/chessterdev
-
-🐙 **GitHub**: github.com/ch3557er
+**Jhonatan Jhonsson Mendoza Sulcaray**  
+Email: chessterdev@gmail.com  
+LinkedIn: https://linkedin.com/in/chessterdev  
+GitHub: https://github.com/ch3557er
 
 ---
 
