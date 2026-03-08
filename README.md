@@ -26,7 +26,7 @@
 - [Cómo Ejecutar el Proyecto](#-cómo-ejecutar-el-proyecto)
 - [Estructura del Proyecto](#-estructura-del-proyecto)
 - [Conclusión Final](#-conclusión-final)
-- [Desarrollador](#-desarrollador)
+- [Desarrollador](#desarrollador)
 
 ---
 
@@ -256,7 +256,7 @@ challenge2_dataScience_LATAM_jjms/
 
 ---
 
-## 👨‍💻 Desarrollador
+## Desarrollador 👨‍💻
 
 **Desarrollado por**: Jhonatan Jhonsson Mendoza Sulcaray
 
